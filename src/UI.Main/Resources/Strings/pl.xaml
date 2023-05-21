@@ -54,17 +54,17 @@
     <string:String x:Key="General__GlobalExceptionHandler__Body">Unhandled exception occurred! Please check the logs directory for full details.</string:String>
 
     <!--  Settings Window Text  -->
-    <string:String x:Key="GeneralSettingsItemText">General</string:String>
-    <string:String x:Key="UpdatesSettingsItemText">Updates</string:String>
-    <string:String x:Key="AppearanceSettingsItemText">Appearance</string:String>
-    <string:String x:Key="ReplaySettingsItemText">Replays</string:String>
-    <string:String x:Key="RequestSettingsItemText">Downloads</string:String>
-    <string:String x:Key="ExecutablesSettingsItemText">Executables</string:String>
-    <string:String x:Key="AboutSettingsItemText">About</string:String>
-    <string:String x:Key="Settings__Menu__StaticDataHeader">Static Data</string:String>
+    <string:String x:Key="GeneralSettingsItemText">Ogólne</string:String>
+    <string:String x:Key="UpdatesSettingsItemText">Aktualizacja</string:String>
+    <string:String x:Key="AppearanceSettingsItemText">Wygląd</string:String>
+    <string:String x:Key="ReplaySettingsItemText">Powtórki</string:String>
+    <string:String x:Key="RequestSettingsItemText">Pobrane</string:String>
+    <string:String x:Key="ExecutablesSettingsItemText">Pliki wykonywalne</string:String>
+    <string:String x:Key="AboutSettingsItemText">Informacje</string:String>
+    <string:String x:Key="Settings__Menu__StaticDataHeader">Dane Statyczne</string:String>
 
     <!--  Settings : General  -->
-    <string:String x:Key="LanguageLabelText">Language</string:String>
+    <string:String x:Key="LanguageLabelText">Język</string:String>
 
     <string:String x:Key="PlayerMarkerLabelText">Player Markers</string:String>
     <string:String x:Key="PlayerMarkerStyleLabel">Player Marker Style</string:String>
@@ -78,39 +78,39 @@
     <string:String x:Key="PlayerMarkerNameIsEmptyErrorText">Player name cannot be empty</string:String>
 
     <string:String x:Key="FileAssociationLabelText">Explorer Open File Behavior</string:String>
-    <string:String x:Key="FileAssociationButtonText">Set .ROFL file association</string:String>
-    <string:String x:Key="FileAssociationMessageTitleText">File Association Set</string:String>
-    <string:String x:Key="FileAssociationMessageBodyText">ReplayBook set as default application for .rofl files</string:String>
-    <string:String x:Key="FileActionOption1">Play replay</string:String>
-    <string:String x:Key="FileActionOption2">Show stats</string:String>
+    <string:String x:Key="FileAssociationButtonText">Ustaw skojarzenie plików .ROFL</string:String>
+    <string:String x:Key="FileAssociationMessageTitleText">Ustawiono skojarzenie plików</string:String>
+    <string:String x:Key="FileAssociationMessageBodyText">ReplayBook został domyślną aplikacją dla plików .rofl</string:String>
+    <string:String x:Key="FileActionOption1">Odtwórz powtórkę</string:String>
+    <string:String x:Key="FileActionOption2">Pokaż statystyki</string:String>
 
     <string:String x:Key="MiscBehaviorLabelText">Miscellaneous Behaviors</string:String>
-    <string:String x:Key="PlayConfirmCheckboxText">Show confirmation before playing replays</string:String>
-    <string:String x:Key="ReplayRenameCheckboxText">Rename file when renaming replays</string:String>
+    <string:String x:Key="PlayConfirmCheckboxText">Pokaż potwierdzenie przed odtworzeniem powtórki</string:String>
+    <string:String x:Key="ReplayRenameCheckboxText">Zmień nazwę pliku po zmianie nazwy powtórki</string:String>
 
-    <string:String x:Key="UpdatesLabelText">Check for Updates</string:String>
-    <string:String x:Key="AutoUpdateCheckboxText">Automatically check for updates</string:String>
-    <string:String x:Key="CheckUpdatesButtonText">Check now</string:String>
-    <string:String x:Key="UpdateAvailableText">Update is available! Download the new version here</string:String>
-    <string:String x:Key="UpdateAvailableNotifText">New version available!</string:String>
-    <string:String x:Key="OpenGitHubButtonText">View project on GitHub</string:String>
-    <string:String x:Key="UpdateExceptionTitleText">Unable to check for updates</string:String>
-    <string:String x:Key="UpdateHTTPExceptionBodyText">Failed to connect to GitHub. Check your connection and try again.</string:String>
-    <string:String x:Key="UpdateGitHubErrorBodyText">GitHub returned an error response. Manually check for updates by going to https://github.com/fraxiinus/ReplayBook</string:String>
-    <string:String x:Key="UpdateMostRecentTitleText">Already updated</string:String>
-    <string:String x:Key="UpdateMostRecentBodyText">You are using the latest version of ReplayBook.</string:String>
-    <string:String x:Key="UpdateNewerTitleText">New version available</string:String>
-    <string:String x:Key="UpdateNewerBodyText">Newer version of ReplayBook is available. Press OK to be taken to the download page.</string:String>
+    <string:String x:Key="UpdatesLabelText">Sprawdź aktualizacje</string:String>
+    <string:String x:Key="AutoUpdateCheckboxText">Automatycznie sprawdzaj aktualizacje</string:String>
+    <string:String x:Key="CheckUpdatesButtonText">Sprawdź teraz</string:String>
+    <string:String x:Key="UpdateAvailableText">Aktualizacja! Pobierz najnowszą wersję tutaj</string:String>
+    <string:String x:Key="UpdateAvailableNotifText">Dostępna nowa wersja!</string:String>
+    <string:String x:Key="OpenGitHubButtonText">Zobacz projekt na GitHubie</string:String>
+    <string:String x:Key="UpdateExceptionTitleText">Nie udało się sprawdzić aktualizacji</string:String>
+    <string:String x:Key="UpdateHTTPExceptionBodyText">Nie udało się połączyć z GitHubem. Sprawdź połączenie i spróbuj ponownie.</string:String>
+    <string:String x:Key="UpdateGitHubErrorBodyText">GitHub zwrócił błąd w odpowiedzi. Sprawdź aktualizacje ręcznie na https://github.com/fraxiinus/ReplayBook</string:String>
+    <string:String x:Key="UpdateMostRecentTitleText">Już zaktualizowano</string:String>
+    <string:String x:Key="UpdateMostRecentBodyText">Używasz najnowszej wersji ReplayBook.</string:String>
+    <string:String x:Key="UpdateNewerTitleText">Nowa wersja jest dostępna</string:String>
+    <string:String x:Key="UpdateNewerBodyText">Dostępna jest nowsza wersja ReplayBook. Naciśnij OK, aby przejść do strony pobierania.</string:String>
 
     <!--  Settings : Appearance  -->
-    <string:String x:Key="AppearanceThemeModeTitle">Theme</string:String>
-    <string:String x:Key="AppearanceThemeMode0">System assigned</string:String>
-    <string:String x:Key="AppearanceThemeMode1">Dark</string:String>
-    <string:String x:Key="AppearanceThemeMode2">Light</string:String>
-    <string:String x:Key="AppearanceThemeAccentTitle">Accent Color</string:String>
+    <string:String x:Key="AppearanceThemeModeTitle">Motyw</string:String>
+    <string:String x:Key="AppearanceThemeMode0">Systemowy</string:String>
+    <string:String x:Key="AppearanceThemeMode1">Ciemny</string:String>
+    <string:String x:Key="AppearanceThemeMode2">Jasny</string:String>
+    <string:String x:Key="AppearanceThemeAccentTitle">Kolor Akcentujący</string:String>
     <string:String x:Key="AppearanceThemeResetColorText">Reset</string:String>
-    <string:String x:Key="AppearanceThemeDefaultAccentNote">Using system defined accent color</string:String>
-    <string:String x:Key="AppearanceThemeCustomAccentNote">Using custom accent color</string:String>
+    <string:String x:Key="AppearanceThemeDefaultAccentNote">Używa systemowego koloru akcentującego</string:String>
+    <string:String x:Key="AppearanceThemeCustomAccentNote">Używa niestandardowego koloru akcentującego</string:String>
 
     <string:String x:Key="ExecutableFoldersLabelText">Executable Source Folders</string:String>
     <string:String x:Key="ExecutableFoldersInfoText">Any subfolders are included</string:String>
