@@ -151,29 +151,29 @@
     <string:String x:Key="SourceFoldersAlreadyExistsErrorTitle">Folder already added</string:String>
 
     <!--  Settings: Static Data  -->
-    <string:String x:Key="Settings__StaticData__DiskUsage__Header">Disk Usage</string:String>
-    <string:String x:Key="Settings__StaticData__DiskUsage__SizeLabel">Total size:</string:String>
-    <string:String x:Key="Settings__StaticData__BundleList__Header">Downloaded Bundles</string:String>
-    <string:String x:Key="Settings__StaticData__BundleList__Info">Bundles include images and text data for champions, items, and runes</string:String>
-    <string:String x:Key="Settings__StaticData__AddBundle__Title">Download Static Data Bundle</string:String>
-    <string:String x:Key="Settings__StaticData__AddBundle__PatchComboBox__Header">Select Patch</string:String>
-    <string:String x:Key="Settings__StaticData__ViewBundle__Title">Patch $ Bundle</string:String>
-    <string:String x:Key="Settings__StaticData__ViewBundle__DateLabel">Downloaded date</string:String>
-    <string:String x:Key="Settings__StaticData__ViewBundle__SizeLabel">Size</string:String>
-    <string:String x:Key="Settings__StaticData__ViewBundle__ChampImageLabel">Champion images</string:String>
-    <string:String x:Key="Settings__StaticData__ViewBundle__ItemImageLabel">Item images</string:String>
-    <string:String x:Key="Settings__StaticData__ViewBundle__RuneImageLabel">Rune images</string:String>
-    <string:String x:Key="Settings__StaticData__ViewBundle__ChampLanguageLabel">Champion data</string:String>
-    <string:String x:Key="Settings__StaticData__ViewBundle__ItemLanguageLabel">Item data</string:String>
-    <string:String x:Key="Settings__StaticData__ViewBundle__RuneLanguageLabel">Rune data</string:String>
-    <string:String x:Key="Settings__StaticData__OpenDataFolder__Button">Browse Data Folder</string:String>
-    <string:String x:Key="Settings__StaticData__RetryDownload__ErrorLabel">Failed to download data for patch $0 and language $1. The endpoint could not be found.</string:String>
-    <string:String x:Key="Settings__StaticData__RetryDownload__Button">Retry in English</string:String>
-    <string:String x:Key="Settings__StaticData__UseAppLanguage__Checkbox">Use application language as bundle language</string:String>
-    <string:String x:Key="Settings__StaticData__BundleLanguage__ComboBoxLabel">Download language</string:String>
+    <string:String x:Key="Settings__StaticData__DiskUsage__Header">Użycie dysku</string:String>
+    <string:String x:Key="Settings__StaticData__DiskUsage__SizeLabel">Całkowity rozmiar:</string:String>
+    <string:String x:Key="Settings__StaticData__BundleList__Header">Pobrane Paczki</string:String>
+    <string:String x:Key="Settings__StaticData__BundleList__Info">Paczki zawierają ikony i dane tekstowe bohaterów, przedmiotów oraz run</string:String>
+    <string:String x:Key="Settings__StaticData__AddBundle__Title">Pobierz Paczkę Danych Statycznych</string:String>
+    <string:String x:Key="Settings__StaticData__AddBundle__PatchComboBox__Header">Wybierz Patch</string:String>
+    <string:String x:Key="Settings__StaticData__ViewBundle__Title">Paczka Patch $</string:String>
+    <string:String x:Key="Settings__StaticData__ViewBundle__DateLabel">Data pobrania</string:String>
+    <string:String x:Key="Settings__StaticData__ViewBundle__SizeLabel">Rozmiar</string:String>
+    <string:String x:Key="Settings__StaticData__ViewBundle__ChampImageLabel">Ikony bohaterów</string:String>
+    <string:String x:Key="Settings__StaticData__ViewBundle__ItemImageLabel">Ikony przedmiotów</string:String>
+    <string:String x:Key="Settings__StaticData__ViewBundle__RuneImageLabel">Ikony run</string:String>
+    <string:String x:Key="Settings__StaticData__ViewBundle__ChampLanguageLabel">Dane boharera</string:String>
+    <string:String x:Key="Settings__StaticData__ViewBundle__ItemLanguageLabel">Dane przedmiotu</string:String>
+    <string:String x:Key="Settings__StaticData__ViewBundle__RuneLanguageLabel">Dane runy</string:String>
+    <string:String x:Key="Settings__StaticData__OpenDataFolder__Button">Przeglądaj folder danych</string:String>
+    <string:String x:Key="Settings__StaticData__RetryDownload__ErrorLabel">Nie udało się pobrać danych dla patcha $0 i języka $1. Endpoint nie został znaleziony.</string:String>
+    <string:String x:Key="Settings__StaticData__RetryDownload__Button">Ponów po angielsku</string:String>
+    <string:String x:Key="Settings__StaticData__UseAppLanguage__Checkbox">Użyj języka aplikacji jako język dla paczek</string:String>
+    <string:String x:Key="Settings__StaticData__BundleLanguage__ComboBoxLabel">Pobierz język</string:String>
 
-    <string:String x:Key="ReplayItemsPerPage">Items Per Page</string:String>
-    <string:String x:Key="Settings__Replays__SearchMinimumScore__Label">Search Strictness</string:String>
+    <string:String x:Key="ReplayItemsPerPage">Przedmioty na stronę</string:String>
+    <string:String x:Key="Settings__Replays__SearchMinimumScore__Label">Dokładność wyszukiwania</string:String>
 
     <string:String x:Key="ReplayDatabaseText">Replay Data Cache</string:String>
     <string:String x:Key="ReplayDatabaseSize">Size:</string:String>
